@@ -25,7 +25,7 @@ setuptools.setup(
 
     keywords="bom, bill of materials, stock, inventory, management, barcode",
 
-    url="https://github.com/inventree/inventree-python/",
+    url="https://github.com/TRHeuser/inventree-python/",
 
     license="MIT",
 
